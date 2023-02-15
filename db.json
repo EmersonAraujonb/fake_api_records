@@ -4,8 +4,8 @@
       "name": "Projeto de Infraestrutura",
       "budget": "2000000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 1000,
       "services": [
